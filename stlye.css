@@ -1,0 +1,47 @@
+body {
+    margin: 0;
+    background-color: rgb(0, 82, 0);
+    text-align: center;
+}
+
+h2 {
+    background: black;
+    font-size: 90px;
+    color:red;
+    width: 140px;
+    margin: 20px;
+    border-radius: 10px;
+    font-family: 'Cursed Timer ULiL', sans-serif;
+    padding-top: 20px;                                                
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+}
+
+h3 {
+    color: red;
+    font-family: "jost", sans-serif;
+    font-size: 40px;
+    margin: auto;
+}
+
+button {
+    background: none;
+    border: 2px solid white;
+    border-radius: 3px;
+    color: white;
+    font-size: 16px;
+}
+
+#new-game-btn {
+    margin-top: 20px;
+    padding: 10px 20px;
+    font-size: 18px;
+    border-radius: 100px;
+    border: none;
+    background-color: red;
+    color: white;
+}
+
